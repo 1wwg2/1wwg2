@@ -4,6 +4,7 @@
 - 👯 I am looking for opportunities to collaborate on cool projects
 - 📫 How to reach me:
   + vitaliiy.kharytonov@gmail.com
+  + https://www.linkedin.com/in/vitalii-kharytonov-3a6335333/
 <!--
 **1wwg2/1wwg2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
