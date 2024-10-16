@@ -3,7 +3,7 @@
 - 🌱 I am currently learning C++ and the QT framework
 - 👯 I am looking for opportunities to collaborate on cool projects
 - 📫 How to reach me:
-  -- vitaliiy.kharytonov@gmail.com
+  + vitaliiy.kharytonov@gmail.com
 <!--
 **1wwg2/1wwg2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
